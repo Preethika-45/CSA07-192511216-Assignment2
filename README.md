@@ -2,7 +2,7 @@
 
 **Student:** PREETHIKA M
 **Register Number:** 192511216
-**Repository name:** `CSA07-192521248-Assignment2`
+**Repository name:** `CSA07-192511216-Assignment2`
 
 ## Environment
 - Operating system: Windows (edit if you used another OS)

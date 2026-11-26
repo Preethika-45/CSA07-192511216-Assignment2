@@ -1,0 +1,11 @@
+! Apply on every router. Use the same reference bandwidth throughout the OSPF domain.
+enable
+configure terminal
+router ospf 1
+ auto-cost reference-bandwidth 100000
+! Add network statements matching this router's interfaces and wildcard masks.
+! Example: network 10.0.0.0 0.0.0.255 area 0
+end
+write memory
+show ip ospf neighbor
+show ip route

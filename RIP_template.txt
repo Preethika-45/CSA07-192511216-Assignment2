@@ -1,0 +1,12 @@
+! Example only: adapt network statements to each router's directly connected networks.
+enable
+configure terminal
+router rip
+ version 2
+ no auto-summary
+ network 10.0.0.0
+ network 192.168.10.0
+end
+write memory
+show ip route
+show ip protocols

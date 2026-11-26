@@ -1,7 +1,7 @@
 # CSA07 – Computer Networks | Assignment 2 (CO2)
 
-**Student:** S. Sofiya  
-**Register Number:** 192521248  
+**Student:** PREETHIKA M
+**Register Number:** 192511216
 **Repository name:** `CSA07-192521248-Assignment2`
 
 ## Environment
